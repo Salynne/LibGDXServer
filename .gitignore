@@ -1,0 +1,22 @@
+# generated files
+bin/
+gen/
+target/
+war/
+
+# local configuration files
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+.metadata
+
+# Java files
+*.jar
+*.class
+META-INF
+
+# Windows crap
+Thumbs.db
