@@ -6,8 +6,6 @@ This allows for the sharing of code and resources across server and client.
 
 ## Usage:
 ```java
-package net.pevnostgames.carpethorn.server;
-
 import com.badlogic.gdx.ApplicationListener;
 import net.pevnostgames.carpethorn.core.asset.MapAssetLoader;
 import net.pevnostgames.carpethorn.core.game.Game;
